@@ -6,8 +6,8 @@
     "per_month": "",
     "billed": "",
     "oldBilled": "",
-    "hex_color_1": "#2196F3",
-    "hex_color_2": "#2196F3",
+    "hex_color_1": "#41297d",
+    "hex_color_2": "#60457f",
     "features": {
       "Users": "1",
       "Email Alerts/User": "1/day",
@@ -30,8 +30,8 @@
     "per_month": "₹416/month",
     "billed": "",
     "oldBilled": "",
-    "hex_color_1": "#2196F3",
-    "hex_color_2": "#2196F3",
+        "hex_color_1": "#41297d",
+    "hex_color_2": "#60457f",
     "features": {
       "Users": "3",
       "Email Alerts/User": "1/day",
@@ -54,8 +54,8 @@
     "per_month": "₹375/month",
     "billed": "",
     "oldBilled": "",
-    "hex_color_1": "#2196F3",
-    "hex_color_2": "#2196F3",
+        "hex_color_1": "#41297d",
+    "hex_color_2": "#60457f",
     "features": {
       "Users": "3",
       "Email Alerts/User": "1/day",

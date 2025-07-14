@@ -1,8 +1,9 @@
 [
   {
     "name": "FREE Plan",
-    "tag": "Forever",
+    "tag": "",
     "price": "₹0/-",
+    "duration" : "lifetime",
     "per_month": "",
     "billed": "",
     "oldBilled": "",
@@ -25,8 +26,9 @@
   },
   {
     "name": "Standard Plan",
-    "tag": "1Y",
+    "tag": "Most Popular",
     "price": "₹5,000/-",
+    "duration" : "1 Year",
     "per_month": "₹416/month",
     "billed": "",
     "oldBilled": "",
@@ -49,8 +51,9 @@
   },
   {
     "name": "Smart Saver Plan",
-    "tag": "2Y",
+    "tag": "",
     "price": "₹9,000/-",
+    "duration" : "2 Year",
     "per_month": "₹375/month",
     "billed": "",
     "oldBilled": "",
